@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1733272114 source:c:\users\talel\desktop\application-pour-la-gestion-d-une-station-service-de-recharge-electrique\projet_c\mabib.c
+	"mabib.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733271918 c:\users\talel\desktop\application-pour-la-gestion-d-une-station-service-de-recharge-electrique\projet_c\mabib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733272231 source:c:\users\talel\desktop\application-pour-la-gestion-d-une-station-service-de-recharge-electrique\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mabib.h"
+
